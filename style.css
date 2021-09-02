@@ -1,0 +1,23 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+form{
+    align-items: center;
+    text-align: center;
+    margin: 15%;
+}
+h2{
+    align-items: center;
+    text-align: center;
+}
+h2:hover{
+    zoom: 1.2;
+}
+label{
+    width: 10%;
+}
+.card{
+    margin: 2%;
+    border: 2px solid;
+    border-color: black;
+}
